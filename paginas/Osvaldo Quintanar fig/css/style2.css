@@ -1,0 +1,28 @@
+h1{
+    text-align: center
+    ;
+    color: azure;
+    padding-top: 60px;
+}
+body{
+    background-color: rgb(12, 133, 18);
+}
+div h2{
+    color: rgb(144, 202, 151);
+}
+div{
+
+
+
+    display: flex;
+}
+h2{
+    font-size: x-large;
+    color: rgb(132, 197, 140);
+}
+.image{
+    padding-left: 10%;
+    border-radius: 10%;
+    padding-right: 10%;
+    border-radius: 10%
+}

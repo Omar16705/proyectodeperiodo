@@ -1,0 +1,40 @@
+
+body{
+
+
+    background-image: url(../img/restaurante.jpg);width: 600; height: 700px;
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+header div{
+text-decoration: none;
+    background-color: rgb(15, 63, 13);
+    text-align: center;
+}
+.headerdiv{
+    background-color: rgb(209, 19, 19);
+    display: flex;
+   text-align: center;
+    padding: 10px;
+    justify-content: center;
+}
+
+h1{
+    color: aliceblue;
+    padding-top: 05%;
+    
+    
+}
+h2{
+
+    text-align: center;
+    color: rgb(117, 226, 141)
+}
+a{
+    color: aliceblue;
+}
+div h1{
+    text-align: center
+    ;
+    color: azure;
+}
