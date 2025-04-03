@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(206, 24, 60);
+}
+
+
+nav{
+    background-color: rgb(3, 66, 3);
+    border-radius: 10px;
+   
+}
+
+nav a{
+    text-decoration: none;
+    color: azure;
+    font-family: "Inria Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+.texto{
+    text-align: center;
+
+}
+
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav img{
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.card{
+    margin: 20px;
+    width: 400px;
+    
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 5px 10px;
+    font-family: "Lato", sans-serif;
+}
+
+.tarjeta{
+    
+    display: flex;
+    
+    }
+
+    .card-content{
+        padding: 15px;
+    }
+
+    .card img{
+
+        width: 100%;
+        
+        }
+        .card:hover{
+            background-color:rgb(117, 15, 35);
+            transform: scale(1.02);
+            
+            }
+            .card .footer{
+
+                padding: 25px;
+                text-align: center;
+            
+            }
+
+
+            .tarjeta{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-wrap: wrap;
+            }
+            .texto{
+                text-align: center;
+                font-family: "Inria Serif", serif;
+                font-weight: 300;
+                font-style: italic;
+              }
+    
+        
+              footer{
+
+                text-align: center;
+                padding: 20px;
+                background-color: rgb(25, 110, 14);
+                border-radius: 15px;
+                
+                }
+
+                footer p{
+                    font-family: "Inria Serif", serif;
+                    font-weight: 700;
+                    font-style: normal;
+                    color: azure;
+                }
+
+
+                .intel p{
+                    font-size: 50px;
+                }
+
+                main img{
+                    margin-left: 1200px;
+                    border-radius: 15px;
+                    width: 500px;
+                }
+
+                main img{
+                    padding: 10px;
+                }
+
+                .you{
+                    font-size: 50px;
+                    margin-left: 1200px;
+                }
+
