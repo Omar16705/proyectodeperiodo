@@ -26,3 +26,6 @@ h2{
     padding-right: 10%;
     border-radius: 10%
 }
+@media ( width <= 600px) {
+    
+}

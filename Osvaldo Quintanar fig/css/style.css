@@ -38,3 +38,12 @@ div h1{
     ;
     color: azure;
 }
+
+.headerdiv{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+@media ( width <= 600px) {
+    
+}
