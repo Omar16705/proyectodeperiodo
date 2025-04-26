@@ -29,3 +29,26 @@ h2{
 @media ( width <= 600px) {
     
 }
+nav a{
+    text-decoration: none;
+    color: azure;
+    font-family: "Inria Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+nav{
+    background-color: rgb(3, 66, 3);
+    border-radius: 10px;
+   
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
+
+    nav img{
+        border-radius: 20px;
+        padding: 10px;
+    }
